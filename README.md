@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2025
-repositorio de prueba
+Prueba de como realizar un repositorio y clonarlo desde github a mi computadora
